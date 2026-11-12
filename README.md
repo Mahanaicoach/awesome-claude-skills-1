@@ -128,7 +128,7 @@ Skills for working with complex file formats:
 | **[Expo Skills](https://github.com/expo/skills)** | Official skills by the Expo team for developing Expo apps |
 | **[shadcn/ui](https://ui.shadcn.com/docs/skills)** | Give Claude Code context on shadcn components as well as pattern enforcement |
 | **[get-shit-done](https://github.com/gsd-build/get-shit-done)** | Lightweight meta-prompting, context engineering, and spec-driven development system for Claude Code by TÂCHES |
-
+| **[Google Maps Scraper Kit](https://github.com/Mahanaicoach/google-maps-scraper-kit)** | YRuns a local Google Maps scraper through Claude Code skills and slash commands to collect business listings and export lead data |
 _More community skills coming soon! Submit a PR to add your skill._
 
 ### Tools
